@@ -1,0 +1,11 @@
+.container.py-5{
+    background-color: rgb(74, 126, 104);
+}
+
+.row.pb-3{
+    background-color: rgb(155, 173, 184);
+}
+
+.col-md-6.col-lg-4.mb-4{
+    background-color: rgb(255, 255, 255);
+}
